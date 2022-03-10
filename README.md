@@ -2,6 +2,7 @@
   <a href="https://github.com/TheuzGod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheuzGod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuzGod&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsantos-f&theme=react&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
