@@ -1,4 +1,10 @@
 <div>
+ 
+ ​  ​gotham​: ​{ 
+ ​    ​title_color​: ​"2aa889"​, 
+ ​    ​icon_color​: ​"599cab"​, 
+ ​    ​text_color​: ​"99d1ce"​, 
+ ​    ​bg_color​: ​"0c1014"​,
   <a href="https://github.com/TheuzGod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheuzGod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuzGod&layout=compact&langs_count=6&theme=tokyonight"/>
