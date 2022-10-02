@@ -1,3 +1,5 @@
+
+
 ## Bem vindo ao meu perfil! Espero que curta obrigado!
  <div>
 
@@ -6,12 +8,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheuzGod&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsantos-f&theme=react&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
 </div>
+
+## Sei usar:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lua" height=30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+  <img align="center" alt="Termux" height=30" width"40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Termux.svg">
 </div>
  
  <br>
